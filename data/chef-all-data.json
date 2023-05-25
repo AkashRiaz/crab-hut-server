@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+    "chef_name": "John Smith",
+    "description": "John is a classically trained chef with over 15 years of experience. He specializes in French cuisine and is passionate about using fresh, locally sourced ingredients in his dishes.",
+    "likes": 2000,
+    "num_recipes": 50,
+    "years_experience": 15,
+    "recipes": [
+      {
+        "recipeName": "Kung Pao Chicken",
+        "ingredients": [
+          "chicken breast",
+          "cornstarch",
+          "vegetable oil",
+          "red bell pepper",
+          "green onion"
+        ],
+        "cookingMethod": "1. Marinate the chicken with cornstarch for 20 minutes. 2. Heat oil in a wok and stir-fry chicken until it turns white. 3. Add vegetables, ginger, garlic, and chili and stir-fry until fragrant. 4. Add peanuts and stir-fry for another 1-2 minutes. 5. Serve hot.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "recipeName": "Hot and Sour Soup",
+        "ingredients": [
+          "chicken broth",
+          "tofu",
+          "mushrooms",
+          "bamboo shoots",
+          "wood ear mushroom",
+          "eggs"
+        ],
+        "cookingMethod": "1. In a pot, bring chicken broth to a boil. 2. Add tofu, mushrooms, bamboo shoots, and wood ear mushroom and bring to a boil again. 3. Beat eggs and add to the pot while stirring. 4. Mix cornstarch with water and add to the pot to thicken. 5. Add vinegar, white pepper, sesame oil, and green onion. 6. Serve hot.",
+        "rating": 4.2,
+        "favorite": false
+      },
+      {
+        "recipeName": "Dim Sum",
+        "ingredients": [
+          "ground pork",
+          "shrimp",
+          "water chestnuts",
+          "green onion",
+          "ginger"
+        ],
+        "cookingMethod": "1. Mix ground pork, shrimp, water chestnuts, green onion, ginger, garlic, soy sauce, sesame oil, and sugar in a bowl. 2. Wrap the mixture in wonton wrappers. 3. Steam for 10-15 minutes. 4. Serve hot.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=a_e524ohK5mfy8Ef2QyeENKQHShv7z6vv-ZztCUCeCc=",
+    "chef_name": "Jane Doe",
+    "description": "Jane is a self-taught chef who has been cooking for over 20 years. She loves experimenting with fusion cuisine and creating new flavor combinations.",
+    "likes": 1500,
+    "num_recipes": 75,
+    "years_experience": 20,
+    "recipes": [
+      {
+        "recipeName": "Mapo Tofu",
+        "ingredients": [
+          "chicken breast",
+          "cornstarch",
+          "vegetable oil",
+          "red bell pepper",
+          "green onion"
+        ],
+        "cookingMethod": "1. Marinate the chicken with cornstarch for 20 minutes. 2. Heat oil in a wok and stir-fry chicken until it turns white. 3. Add vegetables, ginger, garlic, and chili and stir-fry until fragrant. 4. Add peanuts and stir-fry for another 1-2 minutes. 5. Serve hot.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "recipeName": "Dan Dan Noodles",
+        "ingredients": [
+          "chicken broth",
+          "tofu",
+          "mushrooms",
+          "bamboo shoots",
+          "wood ear mushroom",
+          "eggs"
+        ],
+        "cookingMethod": "1. In a pot, bring chicken broth to a boil. 2. Add tofu, mushrooms, bamboo shoots, and wood ear mushroom and bring to a boil again. 3. Beat eggs and add to the pot while stirring. 4. Mix cornstarch with water and add to the pot to thicken. 5. Add vinegar, white pepper, sesame oil, and green onion. 6. Serve hot.",
+        "rating": 4.2,
+        "favorite": false
+      },
+      {
+        "recipeName": "Fried Rice",
+        "ingredients": [
+          "4 cups cooked white rice, preferably chilled overnight",
+          "2 eggs, lightly beaten",
+          "2 cloves garlic, minced",
+          "2 tablespoons soy sauce",
+          "Salt and pepper to taste"
+        ],
+        "cookingMethod": "In a small bowl, whisk together the soy sauce and oyster sauce (if using). Set aside 2.Add the minced garlic and cook for an additional 30 seconds, until fragrant. 3. Add the scrambled eggs back to the pan, along with the soy sauce and oyster sauce mixture. Stir-fry everything together for another 1-2  4.Season with salt and pepper to taste, and garnish with chopped scallions before serving.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://d2iqkqo4ohnqnu.cloudfront.net/2019/02/chefimage.jpg",
+    "chef_name": "David Lee",
+    "description": "David is a Michelin-starred chef who has worked in some of the best restaurants around the world. He specializes in molecular gastronomy and loves pushing the boundaries of traditional cuisine.",
+    "likes": 5000,
+    "num_recipes": 30,
+    "years_experience": 25,
+    "recipes": [
+      {
+        "recipeName": "General Tso's Chicken",
+        "ingredients": [
+          "chicken breast",
+          "cornstarch",
+          "vegetable oil",
+          "red bell pepper",
+          "green onion"
+        ],
+        "cookingMethod": "1. Marinate the chicken with cornstarch for 20 minutes. 2. Heat oil in a wok and stir-fry chicken until it turns white. 3. Add vegetables, ginger, garlic, and chili and stir-fry until fragrant. 4. Add peanuts and stir-fry for another 1-2 minutes. 5. Serve hot.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "recipeName": "Steamed Dumplings",
+        "ingredients": [
+          "chicken broth",
+          "tofu",
+          "mushrooms",
+          "bamboo shoots",
+          "wood ear mushroom",
+          "eggs"
+        ],
+        "cookingMethod": "1. In a pot, bring chicken broth to a boil. 2. Add tofu, mushrooms, bamboo shoots, and wood ear mushroom and bring to a boil again. 3. Beat eggs and add to the pot while stirring. 4. Mix cornstarch with water and add to the pot to thicken. 5. Add vinegar, white pepper, sesame oil, and green onion. 6. Serve hot.",
+        "rating": 4.2,
+        "favorite": false
+      },
+      {
+        "recipeName": "Egg Drop Soup",
+        "ingredients": [
+          "ground pork",
+          "shrimp",
+          "water chestnuts",
+          "green onion",
+          "ginger",
+          "garlic"
+        ],
+        "cookingMethod": "1. Mix ground pork, shrimp, water chestnuts, green onion, ginger, garlic, soy sauce, sesame oil, and sugar in a bowl. 2. Wrap the mixture in wonton wrappers. 3. Steam for 10-15 minutes. 4. Serve hot.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://etimg.etb2bimg.com/photo/94751649.cms",
+    "chef_name": "Maria Rodriguez",
+    "description": "Maria is a Mexican-American chef who grew up cooking traditional Mexican dishes with her grandmother. She now owns a successful restaurant chain that combines Mexican and American cuisine.",
+    "likes": 3000,
+    "num_recipes": 100,
+    "years_experience": 10,
+    "recipes": [
+      {
+        "recipeName": "Chow Mein",
+        "ingredients": [
+          "chicken breast",
+          "cornstarch",
+          "vegetable oil",
+          "red bell pepper"
+        ],
+        "cookingMethod": "1. Marinate the chicken with cornstarch for 20 minutes. 2. Heat oil in a wok and stir-fry chicken until it turns white. 3. Add vegetables, ginger, garlic, and chili and stir-fry until fragrant. 4. Add peanuts and stir-fry for another 1-2 minutes. 5. Serve hot.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "recipeName": "Ma Jiang Mian (sesame paste noodles)",
+        "ingredients": [
+          "chicken broth",
+          "tofu",
+          "mushrooms",
+          "bamboo shoots",
+          "wood ear mushroom",
+          "eggs"
+        ],
+        "cookingMethod": "1. In a pot, bring chicken broth to a boil. 2. Add tofu, mushrooms, bamboo shoots, and wood ear mushroom and bring to a boil again. 3. Beat eggs and add to the pot while stirring. 4. Mix cornstarch with water and add to the pot to thicken. 5. Add vinegar, white pepper, sesame oil, and green onion. 6. Serve hot.",
+        "rating": 4.2,
+        "favorite": false
+      },
+      {
+        "recipeName": "Gong Bao Ji Ding",
+        "ingredients": [
+          "ground pork",
+          "shrimp",
+          "water chestnuts",
+          "green onion",
+          "ginger",
+          "garlic"
+        ],
+        "cookingMethod": "1. Mix ground pork, shrimp, water chestnuts, green onion, ginger, garlic, soy sauce, sesame oil, and sugar in a bowl. 2. Wrap the mixture in wonton wrappers. 3. Steam for 10-15 minutes. 4. Serve hot.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://media.istockphoto.com/id/480379752/photo/cook-decorating-a-plate.jpg?s=612x612&w=0&k=20&c=hPxt_XDChTVm219Twis4LWVX6zmw_191A6IVsjxLJdM=",
+    "chef_name": "William Chen",
+    "description": "William is a Chinese-American chef who specializes in Cantonese cuisine. He grew up cooking with his parents in their restaurant and now runs his own successful restaurant chain.",
+    "likes": 2500,
+    "num_recipes": 50,
+    "years_experience": 15,
+    "recipes": [
+      {
+        "recipeName": "Jianbing",
+        "ingredients": [
+          "1 cup all-purpose flour",
+          "cornstarch",
+          "1 egg",
+          "r2 tbsp hoisin sauce",
+          "Salt to taste"
+        ],
+        "cookingMethod": "1. Marinate the chicken with cornstarch for 20 minutes. 2. Heat oil in a wok and stir-fry chicken until it turns white. 3. Add vegetables, ginger, garlic, and chili and stir-fry until fragrant. 4. Add peanuts and stir-fry for another 1-2 minutes. 5. Serve hot.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "recipeName": "Xiaolongbao",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 lb. ground pork",
+          "1 tbsp sesame oil",
+          "1 tsp soy sauce",
+          "1 tsp sesame oil",
+          "1 tsp sugar"
+        ],
+        "cookingMethod": "1.In a large mixing bowl, combine the flour and warm water. Knead the dough until it's smooth and elastic. Cover the dough with a damp towel and let it rest for 30 minutes. 2.On a floured surface, roll out the dough into a long log, about 1 inch in diameter. Cut the log into small pieces, about 1 inch in length. 3.Use a rolling pin to flatten each dough piece into a thin circle. Place a spoonful of filling in the center of each circle  5. Serve the Xiaolongbao hot, with the dipping sauce on the side.",
+        "rating": 4.2,
+        "favorite": false
+      },
+      {
+        "recipeName": "Dim Sum",
+        "ingredients": [
+          "ground pork",
+          "shrimp",
+          "water chestnuts",
+          "green onion",
+          "ginger"
+        ],
+        "cookingMethod": "1. Mix ground pork, shrimp, water chestnuts, green onion, ginger, garlic, soy sauce, sesame oil, and sugar in a bowl. 2. Wrap the mixture in wonton wrappers. 3. Steam for 10-15 minutes. 4. Serve hot.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture":"https://a2s4r4h8.stackpathcdn.com/wp-content/uploads/2020/07/Chef-de-Partie-Serving-Food.jpg",
+    "chef_name":"Ling Wong",
+    "description": "Ling Wong is a renowned chef from Hong Kong who has been in the culinary industry for over 20 years. She specializes in creating authentic Cantonese dishes.",
+    "likes": 5000,
+    "num_recipes": 15,
+    "years_experience": 20,
+    "recipes": [
+      {
+        "recipeName": "Peking Duck",
+        "ingredients": [
+          "1 cup boiling wate",
+          "2 tbsp hoisin sauce",
+          "2 tbsp grated ginger",
+          "Salt and pepper to taste",
+          "1/4 cup dark soy sauce"
+        ],
+        "cookingMethod": "Rinse the duck inside and out, and pat it dry with paper towels. Use a sharp knife to make small cuts in the skin, being careful not to pierce the meat. This will help the skin crisp up during cooking. 2.In a small bowl, mix together the honey, soy sauce, Shaoxing wine, hoisin sauce, rice vinegar, grated ginger, five-spice powder, salt, and pepper to make a marinade. 3.Brush the marinade all over the duck, making sure to coat it well inside and out. Let the duck marinate for at least 2 hours, or overnight in the refrigerator. 4.Pour the boiling water into the bottom of the roasting pan, and cover the pan tightly with foil.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "recipeName": "Hot and Sour Soup",
+        "ingredients": [
+          "chicken broth",
+          "tofu",
+          "mushrooms",
+          "bamboo shoots",
+          "wood ear mushroom",
+          "eggs",
+          "cornstarch"
+        ],
+        "cookingMethod": "1. In a pot, bring chicken broth to a boil. 2. Add tofu, mushrooms, bamboo shoots, and wood ear mushroom and bring to a boil again. 3. Beat eggs and add to the pot while stirring. 4. Mix cornstarch with water and add to the pot to thicken. 5. Add vinegar, white pepper, sesame oil, and green onion. 6. Serve hot.",
+        "rating": 4.2,
+        "favorite": false
+      },
+      {
+        "recipeName": "Chow Mein",
+        "ingredients": [
+          "8 oz. chow mein noodles",
+          "1 tbsp vegetable oil",
+          "1 tbsp vegetable oil",
+          "1 bell pepper, sliced",
+          "2 carrots, julienned",
+          "1 tbsp sugar"
+        ],
+        "cookingMethod": "1.Cook the chow mein noodles according to package instructions. Drain and set aside.2.In a large wok or skillet, heat the oil over high heat. 3.Add the garlic and stir-fry for a few seconds until fragrant.4.Add the sliced onion and stir-fry for a minute or two until softened.5.Add the sliced bell pepper, cabbage, and julienned carrots, and stir-fry for 2-3 minutes until slightly softened but still crunchy.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  }
+]

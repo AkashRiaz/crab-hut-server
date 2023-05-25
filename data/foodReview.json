@@ -1,0 +1,32 @@
+[
+    {  
+      "id":1,
+      "dish_name": "Kung Pao Chicken",
+      "image_url": "https://images.pexels.com/photos/6937431/pexels-photo-6937431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "review": "The Kung Pao Chicken has a nice balance of spicy and savory flavors. The chicken is cooked just right, and the peanuts and vegetables add a nice texture to the dish."
+    },
+    {
+      "id":2,
+      "dish_name": "Hot and Sour Soup",
+      "image_url": "https://images.pexels.com/photos/2696064/pexels-photo-2696064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "review": "The Hot and Sour Soup is a classic Chinese soup with a tangy and flavorful broth. The tofu and pork add protein and texture to the soup, making it a great appetizer or light meal."
+    },
+    {
+      "id":3,
+      "dish_name": "Shrimp Fried Rice",
+      "image_url": "https://images.pexels.com/photos/2284166/pexels-photo-2284166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "review": "The Shrimp Fried Rice is a delicious and filling dish with plump and juicy shrimp and perfectly seasoned rice. It's a great choice for a main course or to share as a side dish."
+    },
+    {
+      "id":4,
+      "dish_name": "Moo Shu Pork",
+      "image_url": "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "review": "The Moo Shu Pork is a classic Chinese dish that's always a hit. The pork is tender and flavorful, and the pancakes are warm and soft. It's a great dish to share with friends and family."
+    },
+    {
+      "id":5,
+      "dish_name": "Steamed Dumplings",
+      "image_url": "https://images.pexels.com/photos/4057692/pexels-photo-4057692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "review": "The Steamed Dumplings are a must-try appetizer with juicy and flavorful filling wrapped in soft and chewy dough. The dipping sauce is also delicious and adds a nice tang to the dumplings."
+    }
+  ]
